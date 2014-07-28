@@ -10,7 +10,7 @@ twitter: GirlsARIA
 
 Hi everybody, we are **ARIA Team** and we want you meet us! My name is **Melissa Torregrosa**, I am 24 years old, and I’m graduate in computer Science. After my graduation I was working in the field of quality assurance and information system audit. I consider myself as an outgoing person, friendly and responsible. **Paola Garcia** is my teammate, she is 25 years old, she's from Barranquilla-Colombia and she’s graduate in computer sciences. She was working as Process Analyst. Her goal this year is to become a Ruby on Rail developer. Currently she spend her time studying and researching technology, and enjoying with her family.
 
-We met us at the University 5 years ago and there began our friendship. **Guillermo Iguaran** is our Mentor, **Roberto Miranda** and **Laura Garcia** are our Coach. Roberto, Guillermo and we met during University and we are friends. Paola and Laura are sisters, Laura participated to the last RailsGirls Summer of Code, and through her we met the convocatory.
+We met us at the University 5 years ago and there began our friendship. [Guillermo Iguaran](https://twitter.com/guilleiguaran) is our Mentor, [Roberto Miranda](https://twitter.com/robermiranda) and [Laura Garcia](https://twitter.com/Lau_Garcia) are our Coach. Roberto, Guillermo and we met during University and we are friends. Paola and Laura are sisters, Laura participated to the last RailsGirls Summer of Code, and through her we met the convocatory.
 
 ![ARIATeam](https://raw.githubusercontent.com/ARIATeam/web-portfolio/master/img/melipaocollage.jpg "AriaTeam")
 
